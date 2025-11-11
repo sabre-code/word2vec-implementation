@@ -1,2 +1,3 @@
 # word2vec-implementation
-Word2Vec Implementation
+
+Word2Vec Implementation from scratch
